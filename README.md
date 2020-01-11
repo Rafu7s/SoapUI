@@ -1,7 +1,7 @@
 # SoapUI
 
 <br><br>
-![alt text](/img/jw400.jpg "pic")
+![alt text](/img/1w400.jpg "pic")
 <br><br>
 http://petstore.swagger.io/v2/swagger.json
 http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
