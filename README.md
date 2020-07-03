@@ -6,5 +6,7 @@
 http://petstore.swagger.io/v2/swagger.json
 <br>
 http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
+<br>
+http://www.dneonline.com/calculator.asmx?op=Add
 <br><br><br>
 Key: soap, rest, wsdl, asdl, xml, json, Eclipse, java, jar file, testRunner, groovy script, property transfer, MockService 
